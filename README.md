@@ -1,3 +1,11 @@
+# blackroad-quiz-platform
+
+> Adaptive quiz platform with spaced repetition
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-Education](https://github.com/BlackRoad-Education)
+
+---
+
 # BlackRoad Quiz Platform
 
 Adaptive quiz platform with SM-2 spaced repetition algorithm and per-topic difficulty adjustment.
